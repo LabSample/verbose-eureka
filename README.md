@@ -1,0 +1,2 @@
+# verbose-eureka
+Python games
